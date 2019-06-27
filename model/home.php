@@ -1,4 +1,5 @@
 <?php
+//copy-right to sai krishna kumar reddy
 class homeModel{
 	function __construct(){
 		try{
